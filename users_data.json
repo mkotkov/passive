@@ -1,0 +1,302 @@
+[
+    {
+        "first_name": "Emily",
+        "last_name": "Williams",
+        "address": "101 Sunset Blvd, Los Angeles, USA",
+        "phone_number": "+1653185608"
+    },
+    {
+        "first_name": "Carlos",
+        "last_name": "Williams",
+        "address": "101 Sunset Blvd, Los Angeles, USA",
+        "phone_number": "+29521063692"
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Hernandez",
+        "address": "432 Park Avenue, New York, USA",
+        "phone_number": "+72996343599"
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Wilson",
+        "address": "789 Maple Road, Berlin, Germany",
+        "phone_number": "+52440964575"
+    },
+    {
+        "first_name": "Alice",
+        "last_name": "Doe",
+        "address": "101 Pine Street, Madrid, Spain",
+        "phone_number": "+50192589867"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Hernandez",
+        "address": "456 Oak Street, London, UK",
+        "phone_number": "+27196546579"
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "Smith",
+        "address": "101 Pine Street, Madrid, Spain",
+        "phone_number": "+17110283949"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Wilson",
+        "address": "342 River Lane, Toronto, Canada",
+        "phone_number": "+50955137926"
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Hernandez",
+        "address": "768 High Street, Sydney, Australia",
+        "phone_number": "+4955996469"
+    },
+    {
+        "first_name": "Alice",
+        "last_name": "Doe",
+        "address": "456 Oak Street, London, UK",
+        "phone_number": "+48335577302"
+    },
+    {
+        "first_name": "Carlos",
+        "last_name": "Doe",
+        "address": "432 Park Avenue, New York, USA",
+        "phone_number": "+23542605691"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Brown",
+        "address": "789 Maple Road, Berlin, Germany",
+        "phone_number": "+97759721448"
+    },
+    {
+        "first_name": "Carlos",
+        "last_name": "Jones",
+        "address": "101 Broadway, Melbourne, Australia",
+        "phone_number": "+17424601927"
+    },
+    {
+        "first_name": "Alice",
+        "last_name": "Smith",
+        "address": "789 Maple Road, Berlin, Germany",
+        "phone_number": "+49507654222"
+    },
+    {
+        "first_name": "Mike",
+        "last_name": "Miller",
+        "address": "432 Park Avenue, New York, USA",
+        "phone_number": "+97675829758"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Doe",
+        "address": "456 Oak Street, London, UK",
+        "phone_number": "+70979015713"
+    },
+    {
+        "first_name": "Mike",
+        "last_name": "Brown",
+        "address": "432 Park Avenue, New York, USA",
+        "phone_number": "+89333135801"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Hernandez",
+        "address": "101 Broadway, Melbourne, Australia",
+        "phone_number": "+35894061985"
+    },
+    {
+        "first_name": "David",
+        "last_name": "Wilson",
+        "address": "101 Broadway, Melbourne, Australia",
+        "phone_number": "+18164991074"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Smith",
+        "address": "123 Elm Street, New York, USA",
+        "phone_number": "+83799515249"
+    },
+    {
+        "first_name": "Alice",
+        "last_name": "Brown",
+        "address": "342 River Lane, Toronto, Canada",
+        "phone_number": "+10468460607"
+    },
+    {
+        "first_name": "Carlos",
+        "last_name": "Williams",
+        "address": "342 River Lane, Toronto, Canada",
+        "phone_number": "+35678196099"
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Miller",
+        "address": "789 Maple Road, Berlin, Germany",
+        "phone_number": "+2215133370"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Brown",
+        "address": "101 Broadway, Melbourne, Australia",
+        "phone_number": "+7133057760"
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "Jones",
+        "address": "456 Oak Street, London, UK",
+        "phone_number": "+95399264805"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Johnson",
+        "address": "101 Pine Street, Madrid, Spain",
+        "phone_number": "+33224761227"
+    },
+    {
+        "first_name": "David",
+        "last_name": "Smith",
+        "address": "768 High Street, Sydney, Australia",
+        "phone_number": "+76367845571"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Davis",
+        "address": "432 Park Avenue, New York, USA",
+        "phone_number": "+12623780519"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Miller",
+        "address": "123 Elm Street, New York, USA",
+        "phone_number": "+88260274702"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "address": "789 Maple Road, Berlin, Germany",
+        "phone_number": "+82488400256"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Doe",
+        "address": "123 Elm Street, New York, USA",
+        "phone_number": "+21385110098"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Brown",
+        "address": "101 Pine Street, Madrid, Spain",
+        "phone_number": "+4572510484"
+    },
+    {
+        "first_name": "Alice",
+        "last_name": "Davis",
+        "address": "456 Oak Street, London, UK",
+        "phone_number": "+63304799736"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Doe",
+        "address": "789 Maple Road, Berlin, Germany",
+        "phone_number": "+27962752660"
+    },
+    {
+        "first_name": "Alice",
+        "last_name": "Davis",
+        "address": "101 Broadway, Melbourne, Australia",
+        "phone_number": "+71311060239"
+    },
+    {
+        "first_name": "Carlos",
+        "last_name": "Davis",
+        "address": "101 Pine Street, Madrid, Spain",
+        "phone_number": "+68292880450"
+    },
+    {
+        "first_name": "Carlos",
+        "last_name": "Miller",
+        "address": "123 Elm Street, New York, USA",
+        "phone_number": "+85603187648"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Jones",
+        "address": "342 River Lane, Toronto, Canada",
+        "phone_number": "+55478808030"
+    },
+    {
+        "first_name": "Mike",
+        "last_name": "Johnson",
+        "address": "432 Park Avenue, New York, USA",
+        "phone_number": "+15939974295"
+    },
+    {
+        "first_name": "John",
+        "last_name": "Hernandez",
+        "address": "101 Sunset Blvd, Los Angeles, USA",
+        "phone_number": "+49204393277"
+    },
+    {
+        "first_name": "Mike",
+        "last_name": "Johnson",
+        "address": "564 Beach Road, Miami, USA",
+        "phone_number": "+3755168664"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Doe",
+        "address": "456 Oak Street, London, UK",
+        "phone_number": "+70614210197"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Smith",
+        "address": "768 High Street, Sydney, Australia",
+        "phone_number": "+43225601284"
+    },
+    {
+        "first_name": "Mike",
+        "last_name": "Miller",
+        "address": "432 Park Avenue, New York, USA",
+        "phone_number": "+13671024490"
+    },
+    {
+        "first_name": "Carlos",
+        "last_name": "Jones",
+        "address": "342 River Lane, Toronto, Canada",
+        "phone_number": "+83851377859"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Miller",
+        "address": "101 Sunset Blvd, Los Angeles, USA",
+        "phone_number": "+10667168602"
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Jones",
+        "address": "432 Park Avenue, New York, USA",
+        "phone_number": "+2227591766"
+    },
+    {
+        "first_name": "David",
+        "last_name": "Hernandez",
+        "address": "456 Oak Street, London, UK",
+        "phone_number": "+83521440505"
+    },
+    {
+        "first_name": "David",
+        "last_name": "Brown",
+        "address": "342 River Lane, Toronto, Canada",
+        "phone_number": "+88929663423"
+    },
+    {
+        "first_name": "Carlos",
+        "last_name": "Johnson",
+        "address": "123 Elm Street, New York, USA",
+        "phone_number": "+17267717686"
+    }
+]
